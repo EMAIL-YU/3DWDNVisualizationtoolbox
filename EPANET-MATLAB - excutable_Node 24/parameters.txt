@@ -1,0 +1,19 @@
+Filename DG
+Occurence_node 24
+Type SETPOINT
+Accident_time(minute) 20
+Concentration(mg/L) 40
+PDF_formation weibul
+formation_parameter_1 29.792
+formation_parameter_2 11.212
+Pattern 2
+Order_Bulk 1
+Order_Tank 1
+Order_Wall 1
+Global_Bulk 0.40
+Global_Wall 0.20
+Limiting_Potential 0
+Roughness_Correlation 0
+Monte-Carlo false
+
+
